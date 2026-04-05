@@ -7,7 +7,7 @@ Fabrikam wants a simple assistant that can answer frequently asked employee ques
 - How to access the company portal  
 
 ## Learning Objectives  
-- Create a very simple Copilot Studio agent with a knowledge source in SharePoint Online
+- Create a very simple Copilot Studio agent
 - Build basic **question → answer** topics  
 - Test the agent in the test canvas  
 - Understand how trigger phrases work  
