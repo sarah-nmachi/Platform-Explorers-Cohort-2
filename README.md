@@ -18,7 +18,7 @@ Platform Explorers is an initiative aimed at bridging the gap between theoretica
 | **AI Workforce** | The AI Workforce use cases will help mentees learn how to design, build, and test Copilot agents using Copilot Chat and Copilot Studio, including creating conversational flows, capturing user input, and grounding agent responses in trusted organizational knowledge. |
 | **Dynamics 365 Customer Engagement** | The Dynamics 365 Customer Engagement use cases present different scenarios to MAXi, challenging them to build and implement CRM solutions using Microsoft Dynamics 365 tools such as Sales, Customer Service, and Field Service to address business needs related to customer acquisition, sales processes, and post-sales support. |
 | **Dynamics 365 ERP** | This track looks to provide a strong foundation in ERP concepts and Microsoft Dynamics 365 Finance & Operations (D365FO) for individuals with no ERP background and others. This course deals with the  principles/basics and gradually progresses into practical system configuration and real-world use cases in D365FO.
-Participants will gain practical ERP knowledge, hands-on experience configuring D365FO, and an understanding of how real business processes translate into ERP setup. The focus is on building functional consultant thinking, not just system navigation. |
+Participants will gain practical ERP knowledge, hands-on experience configuring D365FO, and an understanding of how real business processes translate into ERP setup. The focus is on building functional consultant thinking, not just system navigation.|
 
 
 
